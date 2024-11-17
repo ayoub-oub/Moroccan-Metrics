@@ -1,7 +1,4 @@
-Your project demonstrates a comprehensive and practical approach to analyzing and forecasting weather data. Here are some key notes on your work:
-##
-
-
+The  project demonstrates a comprehensive and practical approach to analyzing and forecasting weather data in Morocco:
 
 ### Strengths:
 1. **Data Preprocessing:**
